@@ -18,7 +18,7 @@ nav_order: 5
 
 ## Main Memory
 
-Each node has been allocated a dedicated memory of 1kB. And there is a 1kB memory space shared between all the nodes in the system. Since there are 15 nodes and 1 shared space, the total main memory in our design is 17kB.
+Each node has been allocated a dedicated memory of 1kB. And there is a 1kB memory space shared between all the nodes in the system. Since there are 16 nodes and 1 shared space, the total main memory in our design is 17kB.
 
 ![main memory](./images/memory/main_memory.png)
 
