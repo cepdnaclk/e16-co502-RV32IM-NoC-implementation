@@ -1,15 +1,15 @@
 remote_theme: pmarsceill/just-the-docs
 title: RV32IM Network on Chip Design and Implementation
-# logo: "/images/uop.png"
-# description: 
+logo: "/images/uop.png"
+description: 
 
-# # Aux links for the upper right navigation
-# aux_links:
-#   "Project Repository on GitHub":
-#     - "//github.com/cepdnaclk/e16-co502-RV32IM-NoC-implementation"
+# Aux links for the upper right navigation
+aux_links:
+  "Project Repository on GitHub":
+    - "//github.com/cepdnaclk/e16-co502-RV32IM-NoC-implementation"
 
-# # Makes Aux links open in a new tab. Default is false
-# aux_links_new_tab: false
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
 
-# color_scheme: dark
-# color_scheme: style
+color_scheme: dark
+color_scheme: style
