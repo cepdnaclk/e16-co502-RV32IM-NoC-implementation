@@ -1,7 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 title: RV32IM Network on Chip Design and Implementation
 logo: "/images/uop.png"
-description: 
+description: Design and implementation of a Network on Chip
 
 # Aux links for the upper right navigation
 aux_links:
